@@ -1,7 +1,14 @@
-LORD BUDDHA FREE SCHOOL website
+LORD BUDDHA FREE SCHOOL — GitHub Pages website
 
-GitHub Pages ready files. Upload index.html and the entire assets folder to your public GitHub repository. Keep the folder structure unchanged.
+Contents
+- index.html: website homepage
+- assets/photos/: 31 selected school photos
 
-The gallery has been reduced to half of its previous photos (32 gallery items) to make the upload smaller.
+Publish on GitHub Pages
+1. Extract this ZIP on your computer.
+2. Upload index.html and the complete assets folder to the root of your GitHub repository.
+3. In GitHub, open Settings > Pages. Choose Deploy from a branch, branch main, folder /(root), then Save.
+4. Wait for the Pages deployment to finish.
 
-To publish: Repository Settings > Pages > Deploy from a branch > main > /(root) > Save.
+Important: Do not upload the ZIP itself as the website. Upload the extracted files and folders.
+Make sure you have permission from parents/guardians before publishing identifiable photos of children.
